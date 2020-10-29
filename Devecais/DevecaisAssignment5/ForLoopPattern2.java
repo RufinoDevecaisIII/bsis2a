@@ -9,7 +9,7 @@ package forlooppattern2;
  *
  * @author Regret Martin
  */
-public class ForloopPattern2 {
+public class ForLoopPattern2 {
 
     
     public static void main(String[] args) 
