@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package forlooppattern2;
+package forloopattern2;
 
 /**
  *
  * @author Regret Martin
  */
-public class ForLoopPattern2 {
+public class ForLooPattern2 {
 
     
     public static void main(String[] args) 
